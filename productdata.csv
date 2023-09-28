@@ -1,0 +1,17 @@
+Name,ID,Stock,Cost,MRP
+Potato Chips,1,350,15,20
+Sauce,2,193,160,180
+Oil,3,50,250,300
+Chocolate,4,29,50,70
+Cheese,5,13,90,100
+Bread,6,40,30,35
+Pasta,7,30,90,110
+Biscuits,8,50,5,10
+Batteries,9,100,50,70
+Pizza,10,8,150,200
+Noodles,11,100,30,40
+Canned Olives,12,19,130,150
+cat food,13,16,30,35
+cold drink,14,48,40,55
+ice cream,15,30,10,15
+butter,16,20,100,115

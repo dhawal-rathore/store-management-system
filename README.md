@@ -1,6 +1,6 @@
 # store-management-system
 
-Store Management System in Python with secuirty system, data persistence and seamlessly updates item quantity when purchased by customer.
+Store Management System in Python with security system, data persistence and seamlessly updates item quantity when purchased by customer.
 
 ## Dependencies
 
